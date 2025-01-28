@@ -1,6 +1,6 @@
 # Olá, eu sou o Tobias Souza 👋
 
-**Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por Business Intelligence e Tecnologia.**
+** Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por Business Intelligence e Tecnologia.**
 
 🔍 Sempre em busca de soluções inteligentes e eficientes. Meu objetivo é conectar a programação e a análise de dados para criar soluções impactantes para problemas reais. Com uma base sólida em **desenvolvimento web**, estou atualmente me aprofundando em **Business Intelligence** e explorando o poder dos dados para transformar negócios.
 
